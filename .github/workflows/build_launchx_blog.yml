@@ -1,4 +1,4 @@
-ame: Build Personal Blog
+name: Build Personal Blog
 on: push
 
 jobs:
